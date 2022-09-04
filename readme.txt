@@ -1,4 +1,4 @@
-applicativo gestione prenotazioni delle postazioni aziendali
+applicazione gestione prenotazioni delle postazioni aziendali
 
 postazione: codice univoco, descrizione, tipo, numero massimo occupanti, edificio.
 edificio: nome, indirizzo, città.
